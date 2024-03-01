@@ -1,8 +1,8 @@
-### “KOVATZ Berg - Personal Portfolio Resume/CV Html Template ” Documentation by “theme\_ocean” v 1.0
+### “Hello - Personal Portfolio Resume/CV Html Template ” Documentation by “theme\_ocean” v 1.0
 
 * * *
 
-KOVATZ Berg - Personal Portfolio Resume/CV Html Template
+Hello - Personal Portfolio Resume/CV Html Template
 ===================================================
 
 Table of Contents
@@ -20,11 +20,11 @@ Table of Contents
 
 ### **A) Introduction**
 
-Thank you so much for purchasing **KOVATZ Berg - Personal Portfolio Resume/CV Template Html Template**. Please feel free to contact us if you have question or problem about this template. We will do our best to provide you with the best possible assistance.
+Thank you so much for purchasing **Hello - Personal Portfolio Resume/CV Template Html Template**. Please feel free to contact us if you have question or problem about this template. We will do our best to provide you with the best possible assistance.
 
 #### Template Features
 
-*   Bootstrap v4.5.0
+*   Bootstrap v4.3.1
 *   Clean and Professional Design
 *   Cross Browser Compatible
 *   Fully Responsive
